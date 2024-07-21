@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dousaysiv.github.io/sitemap
+Sitemap: https://dousaysiv.github.io/app/sitemap
+Sitemap: https://dousaysiv.github.io/assets/sitemap
+Sitemap: https://dousaysiv.github.io/css/sitemap
+Sitemap: https://dousaysiv.github.io/includes/sitemap
+Sitemap: https://dousaysiv.github.io/item/sitemap
+Sitemap: https://dousaysiv.github.io/src/sitemap
